@@ -1,58 +1,91 @@
 osm_id,name,add.flats,addr.city,addr.flats,addr.housename,addr.housenumber,addr.postcode,addr.street,amenity,building
-260310867,Nationwide,NA,Stroud,NA,NA,16,GL5 3DQ,King Street,bank,yes
-260310875,Specsavers,NA,Stroud,NA,NA,22,GL5 3DE,King Street,NA,yes
-260310878,Andrews,NA,Stroud,NA,NA,24,GL5 3DE,King Street,NA,yes
-260310879,Barclays,NA,Stroud,NA,NA,18,GL5 3DF,King Street,bank,yes
-260310883,Halls,NA,Stroud,NA,NA,10,GL5 3DE,King Street,NA,yes
-260310885,W H Smith,NA,Stroud,NA,NA,20,GL5 3DE,King Street,NA,yes
-260310887,Kebab World & Express Pizza,NA,Stroud,NA,NA,8,GL5 3DE,King Street,fast_food,yes
-260947514,Subway,NA,Stroud,NA,NA,47,GL5 3DA,King Street,fast_food,yes
+295099321,NA,NA,Stroud,NA,NA,9,GL5 1BA,"Millbrook Place, Lansdown",NA,terrace
+295099322,NA,NA,Stroud,NA,NA,7,GL5 1BA,"Millbrook Place, Lansdown",NA,terrace
+295099326,NA,NA,Stroud,NA,NA,4,GL5 1BA,"Millbrook Place, Lansdown",NA,terrace
+295099327,NA,NA,Stroud,NA,NA,1,GL5 1BA,"Millbrook Place, Lansdown",NA,semidetached_house
+466182593,NA,NA,Stroud,NA,NA,8,GL5 1BA,"Millbrook Place, Lansdown",NA,terrace
+466182594,NA,NA,Stroud,NA,NA,5,GL5 1BA,"Millbrook Place, Lansdown",NA,terrace
+466182595,NA,NA,Stroud,NA,NA,6,GL5 1BA,"Millbrook Place, Lansdown",NA,terrace
+466182596,NA,NA,Stroud,NA,NA,3,GL5 1BA,"Millbrook Place, Lansdown",NA,terrace
+782274230,NA,NA,Stroud,NA,NA,2,GL5 1BA,"Millbrook Place, Lansdown",NA,semidetached_house
+782274231,NA,NA,Stroud,NA,NA,10,GL5 1BA,"Millbrook Place, Lansdown",NA,terrace
+260947507,NA,NA,Stroud,"Flat 1, Flat 2",NA,"Flat 1, 3",GL5 1BB,Lansdown,NA,house
+261107414,NA,NA,Stroud,NA,NA,7A,GL5 1BB,Lansdown,NA,apartment
+261107425,NA,NA,Stroud,NA,NA,7B,GL5 1BB,Lansdown,NA,apartment
+782442098,NA,Flat 2,Stroud,NA,NA,3-4,GL5 1BB,Lansdown,NA,apartment
+261107413,NA,NA,Stroud,NA,NA,32,GL5 1BG,Lansdown,NA,semidetached_house
+782277315,NA,NA,Stroud,NA,NA,31,GL5 1BG,Lansdown,NA,semidetached_house
+782281392,NA,NA,Stroud,NA,NA,28,GL5 1BG,Lansdown,NA,terrace
+782281393,NA,NA,Stroud,NA,NA,27,GL5 1BG,Lansdown,NA,terrace
+782281394,NA,NA,Stroud,NA,NA,26,GL5 1BG,Lansdown,NA,terrace
+782281395,NA,NA,Stroud,NA,NA,25,GL5 1BG,Lansdown,NA,terrace
+782281396,NA,NA,Stroud,NA,NA,24,GL5 1BG,Lansdown,NA,terrace
+782281397,NA,NA,Stroud,NA,NA,23,GL5 1BG,Lansdown,NA,terrace
+782281398,NA,NA,Stroud,NA,NA,22,GL5 1BG,Lansdown,NA,terrace
+782281399,NA,NA,Stroud,NA,NA,21,GL5 1BG,Lansdown,NA,terrace
+782281400,NA,NA,Stroud,NA,NA,20,GL5 1BG,Lansdown,NA,terrace
+782281401,NA,NA,Stroud,NA,NA,19,GL5 1BG,Lansdown,NA,terrace
+782281402,NA,NA,Stroud,NA,NA,18,GL5 1BG,Lansdown,NA,terrace
+782281403,NA,NA,Stroud,NA,NA,17,GL5 1BG,Lansdown,NA,terrace
+782281404,NA,NA,Stroud,NA,Michalik House,16,GL5 1BG,Lansdown,NA,terrace
+782281405,NA,NA,Stroud,NA,Lansdown Villas,NA,GL5 1BG,Lansdown,NA,terrace
+261107430,NA,NA,Stroud,NA,NA,74,GL5 1BH,Lansdown,NA,maisonette
+261107434,NA,NA,Stroud,NA,NA,70,GL5 1BH,Lansdown,NA,maisonette
+782378235,NA,NA,Stroud,NA,NA,71,GL5 1BH,Lansdown,NA,maisonette
+782378236,NA,NA,Stroud,NA,NA,72,GL5 1BH,Lansdown,NA,maisonette
+782378237,NA,NA,Stroud,NA,NA,73,GL5 1BH,Lansdown,NA,maisonette
+782378238,NA,NA,Stroud,NA,NA,75,GL5 1BH,Lansdown,NA,maisonette
+782378239,NA,NA,Stroud,NA,NA,76,GL5 1BH,Lansdown,NA,maisonette
+782378240,NA,NA,Stroud,NA,NA,77,GL5 1BH,Lansdown,NA,maisonette
 261107401,NA,NA,Stroud,NA,NA,60,GL5 1BN,Lansdown,NA,house
 261107402,NA,NA,Stroud,"Apartment 1, Apartment 2, Apartment 3",Library Gardens,NA,GL5 1BN,Lansdown,NA,apartments
-261107403,Curio Lounge,NA,Stroud,NA,Burton Chambers,9-11,GL5 3BX,King Street,bar,yes
 261107405,NA,NA,Stroud,NA,NA,48,GL5 1BN,Lansdown,NA,semidetached_house
-261107406,Lansdown Co-Flats,NA,Stroud,"1,2,3,4,5,6,7,8,9,10,11,12,13,14",NA,59,GL5 1BN,Lansdown,NA,yes
-261107407,NA,NA,Stroud,NA,NA,10,GL5 1BB,Lansdown,NA,yes
-261107408,NA,NA,Stroud,NA,NA,6,GL5 1BE,Lansdown,NA,yes
 261107409,NA,NA,Stroud,NA,NA,50,GL5 1BN,Lansdown,NA,semidetached_house
-261107410,Centre for Science and Art,NA,Stroud,NA,NA,13,GL5 1BB,Lansdown,NA,yes
-261107411,NA,NA,Stroud,NA,Avalon,34,GL5 1BW,Lansdown,NA,semidetached_house
-261107413,NA,NA,Stroud,NA,NA,32,GL5 1BG,Lansdown,NA,semidetached_house
-261107414,NA,"7A, 7B",Stroud,NA,NA,7,GL5 1BE,Lansdown,NA,yes
-261107416,NA,NA,Stroud,NA,NA,11-12,GL5 1BB,Lansdown,NA,yes
-261107418,NA,NA,Stroud,NA,Chedworth House,8,GL5 1BD,Lansdown,NA,yes
 261107419,NA,NA,Stroud,NA,NA,56,GL5 1BN,Lansdown,NA,semidetached_house
-261107421,NA,NA,Stroud,NA,NA,9,GL5 1BD,Lansdown,NA,yes
 261107422,NA,NA,Stroud,NA,NA,54,GL5 1BN,Lansdown,NA,semidetached_house
-261107423,NA,NA,Stroud,NA,NA,NA,NA,Lansdown,NA,garage
-261107424,NA,NA,Stroud,NA,NA,23,GL5 3BX,King Street,NA,yes
-261107426,NA,NA,Stroud,NA,The Vicarage,NA,GL5 1JL,Church Street,NA,yes
 261107427,NA,NA,Stroud,NA,NA,52,GL5 1BN,Lansdown,NA,semidetached_house
 261107428,NA,NA,Stroud,NA,NA,58,GL5 1BN,Lansdown,NA,house
-261107429,Church Court Care Centre,NA,Stroud,NA,NA,NA,GL5 1JL,Church Street,NA,yes
-261107430,NA,NA,Stroud,NA,NA,74-77,GL5 1BH,Lansdown,NA,yes
-261107432,Stroud Library,NA,Stroud,NA,NA,NA,GL5 1BL,Lansdown,library,yes
+782288187,NA,NA,Stroud,NA,NA,44,GL5 1BN,Lansdown,NA,semidetached_house
+782288188,NA,NA,Stroud,NA,NA,45,GL5 1BN,Lansdown,NA,semidetached_house
+782288189,NA,NA,Stroud,NA,NA,46,GL5 1BN,Lansdown,NA,semidetached_house
+782288190,NA,NA,Stroud,NA,NA,47,GL5 1BN,Lansdown,NA,semidetached_house
+782288191,NA,NA,Stroud,NA,NA,49,GL5 1BN,Lansdown,NA,terrace
+782288192,NA,NA,Stroud,Top Floor Flat,NA,51,GL5 1BN,Lansdown,NA,semidetached_house
+782288193,NA,NA,Stroud,NA,NA,53,GL5 1BN,Lansdown,NA,semidetached_house
+782288194,NA,NA,Stroud,NA,NA,55,GL5 1BN,Lansdown,NA,semidetached_house
+782288195,NA,NA,Stroud,NA,NA,57,GL5 1BN,Lansdown,NA,semidetached_house
+782272403,NA,NA,Stroud,NA,Edgehill,NA,GL5 1BS,Lansdown,NA,house
+782272407,NA,NA,Stroud,NA,The Withins,NA,GL5 1BS,Lansdown,NA,house
+782272408,NA,NA,Stroud,NA,"Highton, Bungalow Betty",NA,GL5 1BS,Lansdown,NA,semidetached_house
+782272409,NA,NA,Stroud,NA,Bungalow Betty,NA,GL5 1BS,Lansdown,NA,semidetached_house
+782272410,NA,NA,Stroud,NA,Laurelbank,NA,GL5 1BS,Lansdown,NA,house
+782272411,NA,NA,Stroud,NA,Park View,NA,GL5 1BS,Lansdown,NA,house
+782272412,NA,NA,Stroud,NA,Highfield,NA,GL5 1BS,Lansdown,NA,house
+782272404,NA,NA,Stroud,NA,Brookfield House,NA,GL5 1BT,Lansdown,NA,house
+782269430,NA,NA,Stroud,NA,1 Lynbank,NA,GL5 1BU,Lansdown,NA,semidetached_house
+782269431,NA,NA,Stroud,NA,2 Lynbank,NA,GL5 1BU,Lansdown,NA,semidetached_house
+782272401,NA,NA,Stroud,NA,The Limes,NA,GL5 1BU,Lansdown,NA,house
+782272402,NA,NA,Stroud,NA,Inverbeg,NA,GL5 1BU,Lansdown,NA,house
+782272405,NA,NA,Stroud,NA,Togo Lodge,NA,GL5 1BU,Lansdown,NA,semidetached_house
+782272406,NA,NA,Stroud,NA,Riga House,NA,GL5 1BU,Lansdown,NA,semidetached_house
+261107411,NA,NA,Stroud,NA,Avalon,34,GL5 1BW,Lansdown,NA,semidetached_house
 261107433,NA,NA,Stroud,NA,NA,35,GL5 1BW,Lansdown,NA,house
-261107434,NA,NA,Stroud,NA,NA,70-73,GL5 1BH,Lansdown,NA,yes
+295099320,NA,NA,Stroud,NA,Mill House,NA,GL5 1BW,Lansdown,NA,house
+782277313,NA,NA,Stroud,NA,NA,35a,GL5 1BW,Lansdown,NA,semidetached_house
+782277314,NA,NA,Stroud,NA,NA,33,GL5 1BW,Lansdown,NA,semidetached_house
+513736931,Slad Mill,NA,Stroud,"Flat 1, Flat 2, Flat 3, Flat 4, FLat 5, Flat 6, Flat 7, Flat 8, Flat 9, Flat 10, Flat 11, Flat 12, Flat 14, Flat 15, Flat 16, Flat 17, Flat 18, Flat 19, Flat 20, Flat 21, Flat 22",Slad Mill,NA,GL5 1BX,Lansdown,NA,apartments
+782269428,NA,NA,Stroud,NA,1 Rothsay,NA,GL5 1BZ,Lansdown,NA,semidetached_house
+782269429,NA,NA,Stroud,NA,2 Rothsay,NA,GL5 1BZ,Lansdown,NA,semidetached_house
+782269426,NA,NA,Stroud,NA,1 Fernville,NA,GL5 1DA,Lansdown,NA,semidetached_house
+782269427,NA,NA,Stroud,NA,2 Fernville,NA,GL5 1DA,Lansdown,NA,semidetached_house
+782269424,NA,NA,Stroud,NA,1 Sheppey Villas,NA,GL5 1DB,Lansdown,NA,semidetached_house
+782269425,NA,NA,Stroud,NA,2 Sheppey Villas,NA,GL5 1DB,Lansdown,NA,semidetached_house
+782269422,NA,NA,Stroud,NA,1 Huddersfield Villas,NA,GL5 1DD,Lansdown,NA,semidetached_house
+782269423,NA,NA,Stroud,NA,2 Huddersfield Villas,NA,GL5 1DD,Lansdown,NA,semidetached_house
 261108497,NA,NA,Stroud,NA,NA,50,GL5 1DF,Brickrow,NA,house
-261108503,NA,NA,Stroud,NA,NA,10,GL5 1JL,Church Street,NA,house
 261108511,NA,NA,Stroud,NA,NA,44,GL5 1DF,Brickrow,NA,house
 261108519,NA,NA,Stroud,NA,NA,48,GL5 1DF,Brickrow,NA,house
-295099320,NA,NA,Stroud,NA,Mill House,NA,GL5 1BW,Lansdown,NA,house
-295099321,NA,NA,Stroud,NA,9 Millbrook Place,NA,GL5 1BA,Lansdown,NA,terrace
-295099322,NA,NA,Stroud,NA,7 Millbrook Place,NA,GL5 1BA,Lansdown,NA,terrace
-295099326,NA,NA,Stroud,NA,4 Millbrook Place,NA,GL5 1BA,Lansdown,NA,terrace
-295099327,NA,NA,Stroud,NA,1 Millbrook Place,NA,GL5 1BA,Lansdown,NA,semidetached_house
-466152433,EE,NA,Stroud,NA,NA,25,GL5 3BX,King Street,NA,yes
-466152434,NA,NA,Stroud,NA,NA,39,GL5 3DA,King Street,NA,yes
-466152435,NA,NA,Stroud,NA,NA,41,GL5 3DA,King Street,NA,yes
-466182593,NA,NA,Stroud,NA,8 Millbrook Place,NA,GL5 1BA,Lansdown,NA,terrace
-466182594,NA,NA,Stroud,NA,5 Millbrook Place,NA,GL5 1BA,Lansdown,NA,terrace
-466182595,NA,NA,Stroud,NA,6 Millbrook Place,NA,GL5 1BA,Lansdown,NA,terrace
-466182596,NA,NA,Stroud,NA,3 Millbrook Place,NA,GL5 1BA,Lansdown,NA,terrace
 466212597,NA,NA,Stroud,NA,NA,10,GL5 1DF,Brickrow,NA,house
-466212598,NA,NA,Stroud,NA,NA,11,GL5 1JL,Church Street,NA,house
-466212599,NA,NA,Stroud,NA,NA,12,GL5 1JL,Church Street,NA,house
 466212600,NA,NA,Stroud,NA,NA,12,GL5 1DF,Brickrow,NA,house
 466212602,NA,NA,Stroud,NA,NA,14,GL5 1DF,Brickrow,NA,house
 466212603,NA,NA,Stroud,NA,NA,16,GL5 1DF,Brickrow,NA,house
@@ -75,64 +108,7 @@ osm_id,name,add.flats,addr.city,addr.flats,addr.housename,addr.housenumber,addr.
 466212621,NA,NA,Stroud,NA,NA,52,GL5 1DF,Brickrow,NA,house
 466212622,NA,NA,Stroud,NA,NA,6,GL5 1DF,Brickrow,NA,house
 466212623,NA,NA,Stroud,NA,NA,8,GL5 1DF,Brickrow,NA,house
+261108503,NA,NA,Stroud,NA,NA,10,GL5 1JL,Church Street,NA,house
+466212598,NA,NA,Stroud,NA,NA,11,GL5 1JL,Church Street,NA,house
+466212599,NA,NA,Stroud,NA,NA,12,GL5 1JL,Church Street,NA,house
 466212626,NA,NA,Stroud,NA,NA,9,GL5 1JL,Church Street,NA,house
-466495229,Sunshine Health Shop,NA,Stroud,NA,NA,25,GL5 1JL,Church Street,NA,yes
-466495236,The Retreat,NA,NA,NA,NA,28,GL5 1JL,Church Street,bar,yes
-466758336,Bright House,NA,Stroud,NA,NA,12,GL5 3DE,King Street,NA,yes
-466758339,Noble James Associates,NA,Stroud,NA,NA,6,GL5 3DE,King Street,NA,yes
-466758340,Oxfam,NA,Stroud,NA,NA,45,GL5 3DA,King Street,NA,yes
-466758343,The Coventry,NA,Stroud,NA,NA,43,GL5 3DA,King Street,bank,yes
-466758344,William Hill,NA,Stroud,NA,NA,NA,NA,King Street,NA,yes
-517468340,Christian Science Reading Room & Church,NA,Stroud,NA,NA,2,GL5 1BB,Lansdown,place_of_worship,yes
-517468344,Sew & So,NA,Stroud,NA,NA,1,GL5 1BB,Lansdown,NA,yes
-782269422,NA,NA,Stroud,NA,1 Huddersfield Villas,NA,GL5 1DD,Lansdown,NA,semidetached_house
-782269423,NA,NA,Stroud,NA,2 Huddersfield Villas,NA,GL5 1DD,Lansdown,NA,semidetached_house
-782269424,NA,NA,Stroud,NA,1 Sheppey Villas,NA,GL5 1DB,Lansdown,NA,semidetached_house
-782269425,NA,NA,Stroud,NA,2 Sheppey Villas,NA,GL5 1DB,Lansdown,NA,semidetached_house
-782269426,NA,NA,Stroud,NA,1 Fernville,NA,GL5 1DA,Lansdown,NA,semidetached_house
-782269427,NA,NA,Stroud,NA,2 Fernville,NA,GL5 1DA,Lansdown,NA,semidetached_house
-782269428,NA,NA,Stroud,NA,1 Rothsay,NA,GL5 1BZ,Lansdown,NA,semidetached_house
-782269429,NA,NA,Stroud,NA,2 Rothsay,NA,GL5 1BZ,Lansdown,NA,semidetached_house
-782269430,NA,NA,Stroud,NA,1 Lynbank,NA,GL5 1BU,Lansdown,NA,semidetached_house
-782269431,NA,NA,Stroud,NA,2 Lynbank,NA,GL5 1BU,Lansdown,NA,semidetached_house
-782272401,NA,NA,Stroud,NA,NA,NA,GL5 1BU,Lansdown,NA,house
-782272402,NA,NA,Stroud,NA,Inverbeg,NA,GL5 1BU,Lansdown,NA,house
-782272403,NA,NA,Stroud,NA,Edgehill,NA,GL5 1BS,Lansdown,NA,house
-782272404,NA,NA,Stroud,NA,Brookfield House,NA,GL5 1BT,Lansdown,NA,house
-782272405,NA,NA,Stroud,NA,Togo Lodge,NA,GL5 1BU,Lansdown,NA,semidetached_house
-782272406,NA,NA,Stroud,NA,Riga House,NA,GL5 1BU,Lansdown,NA,semidetached_house
-782272407,NA,NA,Stroud,NA,The Withins,NA,GL5 1BS,Lansdown,NA,house
-782272408,NA,NA,Stroud,NA,"Highton, Bungalow Betty",NA,GL5 1BS,Lansdown,NA,semidetached_house
-782272409,NA,NA,Stroud,NA,Bungalow Betty,NA,GL5 1BS,Lansdown,NA,semidetached_house
-782272410,NA,NA,Stroud,NA,Laurelbank,NA,GL5 1BS,Lansdown,NA,house
-782272411,NA,NA,Stroud,NA,Park View,NA,GL5 1BS,Lansdown,NA,house
-782272412,NA,NA,Stroud,NA,Highfield,NA,GL5 1BS,Lansdown,NA,house
-782274230,NA,NA,Stroud,NA,2 Millbrook Place,NA,GL5 1BA,Lansdown,NA,semidetached_house
-782274231,NA,NA,Stroud,NA,10 Millbrook Place,NA,GL5 1BA,Lansdown,NA,terrace
-782277313,NA,NA,Stroud,NA,NA,35a,GL5 1BW,Lansdown,NA,semidetached_house
-782277314,NA,NA,Stroud,NA,NA,33,GL5 1BW,Lansdown,NA,semidetached_house
-782277315,NA,NA,Stroud,NA,NA,31,GL5 1BG,Lansdown,NA,semidetached_house
-782281392,NA,NA,Stroud,NA,NA,28,GL5 1BG,Lansdown,NA,terrace
-782281393,NA,NA,Stroud,NA,NA,27,GL5 1BG,Lansdown,NA,terrace
-782281394,NA,NA,Stroud,NA,NA,26,GL5 1BG,Lansdown,NA,terrace
-782281395,NA,NA,Stroud,NA,NA,25,GL5 1BG,Lansdown,NA,terrace
-782281396,NA,NA,Stroud,NA,NA,24,GL5 1BG,Lansdown,NA,terrace
-782281397,NA,NA,Stroud,NA,NA,23,GL5 1BG,Lansdown,NA,terrace
-782281398,NA,NA,Stroud,NA,NA,22,GL5 1BG,Lansdown,NA,terrace
-782281399,NA,NA,Stroud,NA,NA,21,GL5 1BG,Lansdown,NA,terrace
-782281400,NA,NA,Stroud,NA,NA,20,GL5 1BG,Lansdown,NA,terrace
-782281401,NA,NA,Stroud,NA,NA,19,GL5 1BG,Lansdown,NA,terrace
-782281402,NA,NA,Stroud,NA,NA,18,GL5 1BG,Lansdown,NA,terrace
-782281403,NA,NA,Stroud,NA,NA,17,GL5 1BG,Lansdown,NA,terrace
-782281404,NA,NA,Stroud,NA,Michalik House,16,GL5 1BG,Lansdown,NA,terrace
-782281405,NA,NA,Stroud,NA,Lansdown Villas,NA,GL5 1BG,Lansdown,NA,terrace
-782288187,NA,NA,Stroud,NA,NA,44,GL5 1BN,Lansdown,NA,semidetached_house
-782288188,NA,NA,Stroud,NA,NA,45,GL5 1BN,Lansdown,NA,semidetached_house
-782288189,NA,NA,Stroud,NA,NA,46,GL5 1BN,Lansdown,NA,semidetached_house
-782288190,NA,NA,Stroud,NA,NA,47,GL5 1BN,Lansdown,NA,semidetached_house
-782288191,NA,NA,Stroud,NA,NA,49,GL5 1BN,Lansdown,NA,terrace
-782288192,NA,NA,Stroud,Top Floor Flat,NA,51,GL5 1BN,Lansdown,NA,semidetached_house
-782288193,NA,NA,Stroud,NA,NA,53,GL5 1BN,Lansdown,NA,semidetached_house
-782288194,NA,NA,Stroud,NA,NA,55,GL5 1BN,Lansdown,NA,semidetached_house
-782288195,NA,NA,Stroud,NA,NA,57,GL5 1BN,Lansdown,NA,semidetached_house
-782299762,NA,NA,Stroud,NA,NA,5A,GL5 1BB,Lansdown,NA,yes
